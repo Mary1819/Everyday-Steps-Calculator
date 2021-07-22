@@ -1,0 +1,29 @@
+.intro {
+    font-size: 20px;
+}
+
+img {
+    width: 400px;
+}
+
+.final {
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
+    color: #D8F50B;
+
+}
+
+.reset {
+    display: block;
+}
+
+.succes {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background: url("https://reach.scot/wp-content/uploads/2012/02/mirror-macro-blurring-top-bottom-bright-background-lights-587.jpg");
+}
